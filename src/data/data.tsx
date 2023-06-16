@@ -79,8 +79,8 @@ export const heroData: Hero = {
         web applications and fixing bugs.
       </p>
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
-        In my free time time, i explore new <strong className="text-stone-100">Technologies</strong>, used by{' '}
-        <strong className="text-stone-100">Frontend Developers</strong>in various industries{' '}
+        In my free time time, I explore new <strong className="text-stone-100">Technologies</strong>, used by{' '}
+        <strong className="text-stone-100">Frontend Developers </strong> in various industries{' '}
         <strong className="text-stone-100"></strong>.
       </p>
     </>
